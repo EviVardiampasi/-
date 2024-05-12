@@ -1,2 +1,2 @@
 # OER-REPOSITORY
-Υλικό από Φωτόδεντρο e-yliko κατασκευασμένα στην e-me
+Διαδραστικό υλικό από Φωτόδεντρο e-yliko (https://photodentro.edu.gr/ugc/user?userID=420) κατασκευασμένο στην πλατφόρμα e-me
